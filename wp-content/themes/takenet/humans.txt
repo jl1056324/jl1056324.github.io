@@ -1,0 +1,19 @@
+/* TEAM
+============================================================= */
+
+  UX/UI: Bolt Brasil <bolt.com.br>
+
+  The Front End, The Back End: Edmundo Rodrigues
+  Site: rdsedmundo.bitbucket.org
+  E-mail: rdsedmundo(at)gmail(dot)com
+  Location: BH, MG Brasil
+
+
+/* PROJECT
+============================================================= */
+
+  Name: Take
+  Last update: 10/2016
+  Language: pt-br, en
+  Technology: PHP, HTML5, CSS3, JavaScript
+  Softwares: Visual Studio Code, Photoshop CS6
